@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jay Patel
-- 👀 Interested in Machine Learning and AI
-- 🌱 I’m currently learning JAVA at Georgia College and State University
-- 📫 How to reach me: email: jaydpat0822@gmail.com
+- Hi, I’m Jay Patel
+- Interested in Machine Learning and AI
+- I’m currently learning JAVA at Georgia College and State University
+- How to reach me: personal email: jaydpat0822@gmail.com school email: Jay.patel@bobcats.gcsu.edu
