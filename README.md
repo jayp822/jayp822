@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a passionate Software Developer with a strong interest in both Frontend and Backend development. On the Frontend, I specialize in building user-friendly interfaces using React and TypeScript. On the Backend, I have experience working with C++, Python, and Java to create robust and efficient systems.
 
-Currently, I'm expanding my skill set by learning GraphQL, systems programming languages, and Next.js. I'm always eager to take on new challenges and continue growing as a developer.
+Currently, I'm expanding my skill set by learning GraphQL, systems programming languages, and Next.js. I'm always eager to create projects with new tech stacks and learning through doing.
 
 Feel free to explore my repositories and connect with me!
 
