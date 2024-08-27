@@ -2,7 +2,7 @@
 My name is Jay Patel and I am a Software Developer interested in Frontend Developement in React, Next.js, and Typescript and Backend development in C++, Python, and Java.
 
 ## My Stats
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayp822&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayp822&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,mongodb,nodejs,postgres,py,react,js,bash,cpp,fastapi,)](https://skillicons.dev)
