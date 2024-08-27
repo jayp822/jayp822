@@ -1,5 +1,7 @@
 ## Hi there 👋
+## My name is Jay Patel and I am a Software Developer interested in Frontend Developement in React, Next.js, and Typescript and Backend development in C++, Python, and Java.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **jayp822/jayp822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
