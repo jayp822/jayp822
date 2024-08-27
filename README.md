@@ -1,5 +1,9 @@
 ## Hi there 👋
-My name is Jay Patel and I am a Software Developer interested in Frontend Developement in React, Next.js, and Typescript and Backend development in C++, Python, and Java.
+I'm a passionate Software Developer with a strong interest in both Frontend and Backend development. On the Frontend, I specialize in building user-friendly interfaces using React and TypeScript. On the Backend, I have experience working with C++, Python, and Java to create robust and efficient systems.
+
+Currently, I'm expanding my skill set by learning GraphQL, systems programming languages, and Next.js. I'm always eager to take on new challenges and continue growing as a developer.
+
+Feel free to explore my repositories and connect with me!
 
 ## My Stats
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayp822&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
