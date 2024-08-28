@@ -5,9 +5,6 @@ Currently, I'm expanding my skill set by learning GraphQL, systems programming l
 
 Feel free to explore my repositories and connect with me!
 
-## My Stats
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayp822&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,mongodb,nodejs,postgres,py,react,js,bash,cpp,fastapi,)](https://skillicons.dev)
 <!--
