@@ -6,7 +6,7 @@ Currently, I'm expanding my skill set by learning GraphQL, systems programming l
 Feel free to explore my repositories and connect with me!
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,mongodb,nodejs,postgres,py,react,js,bash,cpp,fastapi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mongodb,nodejs,postgres,py,react,js,bash,cpp,fastapi,astro)](https://skillicons.dev)
 <!--
 **jayp822/jayp822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
